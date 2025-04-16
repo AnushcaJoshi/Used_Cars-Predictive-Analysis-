@@ -77,22 +77,21 @@ A detailed EDA was conducted to understand the data better:
 The following visualizations were created as part of the analysis:
 
 ### 1. **Count of Cars by Manufacturer**
-https://github.com/AnushcaJoshi/Used_Cars-Predictive-Analysis-/issues/1#issue-2999815109
-
+![Image](https://github.com/user-attachments/assets/a37722df-5033-4c38-b793-b16c37392478)
 
 This chart shows that **Maruti**, **Hyundai**, and **Honda** dominate the used car listings.
 
 ---
 
 ### 2. **Car Sales by Manufacturer**
-https://github.com/AnushcaJoshi/Used_Cars-Predictive-Analysis-/issues/2#issue-2999818518
+![Image](https://github.com/user-attachments/assets/357cf50b-9157-4e77-9269-a1daf9fc3736)
 
 Sales distribution by manufacturer helps assess market presence and popularity of brands.
 
 ---
 
 ### 3. **Correlation Heatmap**
-https://github.com/AnushcaJoshi/Used_Cars-Predictive-Analysis-/issues/3#issue-2999820904
+![Image](https://github.com/user-attachments/assets/b1f6e662-4191-4ca1-805d-4ad2b3fbd092)
 
 A heatmap reveals the strength of relationships between numerical features and car price.
 
